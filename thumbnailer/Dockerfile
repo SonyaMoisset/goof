@@ -1,4 +1,4 @@
-FROM python:3.13.0b2
+FROM python:3.14.0a2
 
 RUN pip install flask waitress
 
